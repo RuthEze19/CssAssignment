@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(140, 0, 255);
+    height: 80px;
+    width: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+    text-transform: uppercase;
+}
+
+footer{
+    background-color: rgb(7, 15, 15);
+    height: 80px;
+    width: auto;
+    text-align: center;
+    padding: 50px 0;
+    clear: both;
+}
+
+.rightsidebar{
+    background-color: rgb(78, 17, 30);
+    height: 500px;
+    width: 100px;
+    float: right;
+    padding: 50px;
+    clear: both;
+}
+
+.leftsidebar{
+    background-color: rgb(36, 34, 178);
+    height: 500px;
+    width: 100px; 
+    padding: 50px;
+}
